@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amir22010" alt="amir22010" /></a> </p>
 
-- 🔭 I’m currently working on **AI Certifications with Azure and Nvidia**
+- 🔭 I’m currently working on **AI Certifications with Azure and Nvidia**.
 
-- 🌱 I’m currently learning **MLOps, Airflow, Docker, Kubernetes, CI/CD**
+- 🌱 I’m currently learning **RAPIDS AI, MLOps, Airflow, Docker, Kubernetes, CI/CD**.
 
 - 📝 I write AI articles on [Medium Blogs](https://medium.com/@khan.amir504)
 
