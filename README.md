@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **MLOps, Airflow, Docker, Kubernetes, CI/CD**
 
-- My Acclaim Badges [https://www.youracclaim.com/users/amir-khan.5f98bb8b](https://www.youracclaim.com/users/amir-khan.5f98bb8b)
+- 📝 I write AI articles on [Medium Blogs](https://medium.com/@khan.amir504)
 
-- 📝 I write AI articles on [https://medium.com/@khan.amir504](https://medium.com/@khan.amir504)
+- :crown: My Acclaim IBM Badges [IBM](https://www.youracclaim.com/users/amir-khan.5f98bb8b)
 
-- My Google Cloud Badges **https://www.qwiklabs.com/public_profiles/b17f93ef-b721-4bf3-bb7f-ee8c8f1bd21d**
+- :crown: My Google Cloud Badges [Google Cloud](https://www.qwiklabs.com/public_profiles/b17f93ef-b721-4bf3-bb7f-ee8c8f1bd21d)
 
 - 📫 How to reach me **khan.amir504@gmail.com**
 
