@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **khan.amir504@gmail.com**
 
-- ⚡ Fun fact **I think I am Music and Dance Lover, I also Like to Explore Beautiful Places**
+- ⚡ Fun fact **I think I am Music and Dance Lover, I also Like to Explore Beautiful Places**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
