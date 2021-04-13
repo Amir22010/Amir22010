@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **AI Certifications with Azure and Nvidia**.
 
-- 🌱 I’m currently learning **RAPIDS AI, MLOps, Airflow, Docker, Kubernetes, CI/CD**.
+- 🌱 I’m currently learning **RAPIDS AI, MLOps, MLflow, Kubeflow, Airflow, Docker, Kubernetes, CI/CD**.
 
 - 📝 I write AI articles on [Medium Blogs](https://medium.com/@khan.amir504)
 
@@ -16,6 +16,10 @@
 - :crown: My Google Cloud Badges [Google Cloud](https://www.qwiklabs.com/public_profiles/b17f93ef-b721-4bf3-bb7f-ee8c8f1bd21d)
 
 - :crown: My Microsoft Learn Badges [Microsoft Learn](https://docs.microsoft.com/en-us/users/amirkhan-2333/)
+
+- :crown: NVIDIA DEEP LEARNING INSTITUTE CERTIFICATE 1 [Getting Started with Deep Learning](https://courses.nvidia.com/certificates/2df48ffb66b843f0a4cc3d4eacf2302e)
+
+- :crown: NVIDIA DEEP LEARNING INSTITUTE CERTIFICATE 2 [Fundamentals of Deep Learning for Computer Vision](https://courses.nvidia.com/certificates/3dbcecdb40244417ab584d71459b7daa)
 
 - :crown: My Devpost Hackathon Achievements [Hackathon](https://devpost.com/amir2201/achievements)
 
