@@ -15,6 +15,8 @@
 
 - :crown: My Google Cloud Badges [Google Cloud](https://www.qwiklabs.com/public_profiles/b17f93ef-b721-4bf3-bb7f-ee8c8f1bd21d)
 
+- :crown: My Microsoft Learn Badges [Microsoft Learn](https://docs.microsoft.com/en-us/users/amirkhan-2333/)
+
 - :crown: My Devpost Hackathon Achievements [Hackathon](https://devpost.com/amir2201/achievements)
 
 - 📫 How to reach me **khan.amir504@gmail.com**
