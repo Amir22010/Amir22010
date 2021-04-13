@@ -32,7 +32,7 @@
 <a href="https://www.linkedin.com/in/amir-khan-hcl" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/amir-khan-hcl" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/8491761/amir" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/8491761/amir" height="30" width="40" /></a>
 <a href="https://medium.com/@khan.amir504" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@khan.amir504" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/https://www.hackerearth.com/@khan.amir504/activity/hackerearth/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="https://www.hackerearth.com/@khan.amir504/activity/hackerearth/" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@khan.amir504/activity/hackerearth/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="https://www.hackerearth.com/@khan.amir504/activity/hackerearth/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
