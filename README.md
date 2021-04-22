@@ -21,6 +21,8 @@
 
 - :crown: NVIDIA DEEP LEARNING INSTITUTE CERTIFICATE 2 [Fundamentals of Deep Learning for Computer Vision](https://courses.nvidia.com/certificates/3dbcecdb40244417ab584d71459b7daa)
 
+- :crown: NVIDIA DEEP LEARNING INSTITUTE CERTIFICATE 3 [Fundamentals of Accelerated Data Science with RAPIDS](https://courses.nvidia.com/certificates/cb4f9bb4b6ba4595b38e1548ff936a04)
+
 - :crown: My Devpost Hackathon Achievements [Hackathon](https://devpost.com/amir2201/achievements)
 
 - 📫 How to reach me **khan.amir504@gmail.com**
