@@ -13,6 +13,8 @@
 
 - :crown: My Acclaim IBM Badges [IBM](https://www.youracclaim.com/users/amir-khan.5f98bb8b)
 
+- :crown: My First IBM Quantum Machine Learning Summer School 2021 - Certificate of Excellence [QuantumML](https://drive.google.com/file/d/1BtnvEQ7aib4tAFQRjqfExpOh3XOEbzPg/view?usp=sharing)
+
 - :crown: My Google Cloud Badges [Google Cloud](https://www.qwiklabs.com/public_profiles/b17f93ef-b721-4bf3-bb7f-ee8c8f1bd21d)
 
 - :crown: My Microsoft Learn Badges [Microsoft Learn](https://docs.microsoft.com/en-us/users/amirkhan-2333/)
