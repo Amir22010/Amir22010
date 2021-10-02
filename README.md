@@ -7,9 +7,13 @@
 
 - 🔭 I’m currently working on to get **AI Certifications with Microsoft, IBM and Nvidia**.
 
-- 🌱 I’m currently learning **RAPIDS AI, MLOps, MLflow, Kubeflow, Airflow, Docker, Kubernetes, CI/CD**.
+- 🌱 I’m currently learning **Quantum Computing - QisKit, RAPIDS AI, MLOps, MLflow, Kubeflow, Airflow, Docker, Kubernetes, CI/CD**.
 
 - 📝 I write AI articles on [Medium Blogs](https://medium.com/@khan.amir504)
+
+- :crown: My First IBM Quantum Computing Challenge Badge Achievement 2021 [IBM Quantum Africa Challenge Badge 2021](https://www.credly.com/badges/57641615-5369-467a-9dca-bcc768102fc2?source=linked_in_profile)
+
+- :crown: My Microsoft Azure AI Engineer Associate Certificate 2021 - 2022 [Microsoft AI Engineer Associate Certified](https://www.credly.com/badges/48093baf-f2ce-4d36-9053-1e3efe88c0ca?source=linked_in_profile)
 
 - :crown: My Acclaim IBM Badges [IBM](https://www.youracclaim.com/users/amir-khan.5f98bb8b)
 
