@@ -13,6 +13,12 @@
 
 - :crown: My First IBM Quantum Computing Challenge Badge Achievement 2021 [IBM Quantum Africa Challenge Badge 2021](https://www.credly.com/badges/57641615-5369-467a-9dca-bcc768102fc2?source=linked_in_profile)
 
+- :crown: My Second IBM Quantum Computing Challenge Badge Achievement 2021 [IBM Quantum Challenge Fall 2021](https://www.credly.com/badges/34ff9404-67ee-4527-a10d-d881c0f75093/public_url)
+
+- :crown: Hugging Face Course Completion Certificate 2021 [Hugging Face](https://drive.google.com/file/d/11C2ZbYfTda5yskr6vsSeoFtD23c37LS6/view)
+
+- :crown: Hugging Face Space App [AI Powered AskMeAnything](https://huggingface.co/spaces/amir22010/AskmeAnythingNow)
+
 - :crown: My Microsoft Azure AI Engineer Associate Certificate 2021 - 2022 [Microsoft AI Engineer Associate Certified](https://www.credly.com/badges/48093baf-f2ce-4d36-9053-1e3efe88c0ca?source=linked_in_profile)
 
 - :crown: My Acclaim IBM Badges [IBM](https://www.youracclaim.com/users/amir-khan.5f98bb8b)
