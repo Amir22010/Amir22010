@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Quantum Computing - QisKit, RAPIDS AI, MLOps, MLflow, Kubeflow, Airflow, Docker, Kubernetes, CI/CD**.
 
-- 📝 I write AI articles on [Medium Blogs](https://medium.com/@khan.amir504)
+- 📝 I write AI articles on [Medium Blogs]([https://medium.com/@khan.amir504](https://khan-amir504.medium.com/))
 
 - :crown: My First IBM Quantum Computing Challenge Badge Achievement 2021 [IBM Quantum Africa Challenge Badge 2021](https://www.credly.com/badges/57641615-5369-467a-9dca-bcc768102fc2?source=linked_in_profile)
 
